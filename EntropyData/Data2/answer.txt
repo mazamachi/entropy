@@ -1,0 +1,6 @@
+random.txt.zip	: 843 bytes
+Alice.txt.zip	: 706 bytes
+abc.txt.zip	: 182 bytes
+abc.txt	: 976 bytes
+Alice.txt	: 976 bytes
+random.txt	: 976 bytes
